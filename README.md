@@ -1,2 +1,2 @@
-# CSCI4448Project1
-Project 1 by Michael Doan and Kevin Huynh
+# Zoo Project 
+A project we did in class that simulates the life of a zoo keeper
